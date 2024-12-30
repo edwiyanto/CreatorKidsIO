@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For CreatorKidsIO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CreatorKidsIO	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setupPin	KEYWORD2
+outputSet   KEYWORD3
+blink       KEYWORD4
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CONSTANT	LITERAL1
